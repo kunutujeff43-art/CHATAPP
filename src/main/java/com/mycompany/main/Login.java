@@ -159,7 +159,7 @@ public class Login {
                 firstName,
                 lastName
           
-                 ); (names)
+                 ); 
 
         String registrationMessage = user.registerUser();
         System.out.println(registrationMessage);
