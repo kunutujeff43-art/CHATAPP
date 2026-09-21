@@ -158,7 +158,8 @@ public class Login {
                 cellPhoneNumber,
                 firstName,
                 lastName
-                 );
+          
+                 ); (names)
 
         String registrationMessage = user.registerUser();
         System.out.println(registrationMessage);
