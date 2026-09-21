@@ -12,8 +12,8 @@ import java.util.Scanner;
  */
 public class Login {
 
-     String username;;
-     String password;;
+     String username;
+     String password;
      String cellPhoneNumber;
      String firstName;
      String lastName;
