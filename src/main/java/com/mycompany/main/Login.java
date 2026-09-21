@@ -19,7 +19,7 @@ public class Login {
      String lastName;
 
     public Login() {
-    }
+    } .
 
     public Login(String username, String password, String cellPhoneNumber,
                  String firstName, String lastName) {
